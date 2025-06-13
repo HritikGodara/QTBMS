@@ -82,6 +82,6 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-**Hritik Godara**
+**Hritik G Bishnoi**
 
 > Contributions, ideas, or improvements are welcome!
